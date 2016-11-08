@@ -12,3 +12,8 @@ Normally if you compiled correctly the source code and you have all the textures
 
 
 ![out- view](https://cloud.githubusercontent.com/assets/15057375/20098124/e4f38996-a5ba-11e6-8ea3-e34e5f383625.png)
+
+This is the perspective view where you can rotate the maze by pressing the "R" key.
+
+To enter the maze and start playing in first person view just press the "V" key.
+
