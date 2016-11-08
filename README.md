@@ -11,3 +11,4 @@ This game was created in Opengl, with the aid of glut toolkit. It is a 3d game w
 Normally if you compiled correctly the source code and you have all the textures and libraries(glut ,SOIL) installed on your machine you will get something like this :
 
 
+![out- view](https://cloud.githubusercontent.com/assets/15057375/20098124/e4f38996-a5ba-11e6-8ea3-e34e5f383625.png)
