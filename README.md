@@ -17,3 +17,9 @@ This is the perspective view where you can rotate the maze by pressing the "R" k
 
 To enter the maze and start playing in first person view just press the "V" key.
 
+In game view will look something like this :
+
+![in -view](https://cloud.githubusercontent.com/assets/15057375/20098120/dd02cc9c-a5ba-11e6-81f5-5d5f642baf6f.png)
+
+Press W-A-S-D  keys to move. You can destroy a cube in front of you by pressing the "h" or "H" key.
+Finally you can reach an upper level in the maze by pressing the "space bar".
